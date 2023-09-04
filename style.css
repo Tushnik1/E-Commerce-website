@@ -193,7 +193,7 @@ input{
         gap: 10px;
     }
     .shop>.book{
-        width: 90%;
+        min-width: 90%;
         height: 90vh;
         display: flex;
         flex-direction: row;
